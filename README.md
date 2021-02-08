@@ -1,6 +1,6 @@
 # 2020-2-BDP
 ## 기말 프로젝트
-### **[ Best Player For you ]**
+### [ Best Player For you ]
 
 ### 개인적 프로젝트 목표
 1. 웹 크롤링 입문
